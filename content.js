@@ -63,6 +63,5 @@ const translations = {
     translateText(document.body);
   }
   
-  // Run the translation when the content script is loaded
   translatePage();
-  
+

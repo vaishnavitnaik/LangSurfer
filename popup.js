@@ -7,7 +7,6 @@ document.getElementById('translate').addEventListener('click', async () => {
   });
   
   function translatePage() {
-    // Reuse the same translatePage function from content.js
     const translations = {
       "hello": "hallo",
       "world": "welt",
