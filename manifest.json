@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Word Translator",
+  "version": "1.0",
+  "description": "Translate specific words into German",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon/icons.png",
+      "48": "icon/icons.png",
+      "128": "icon/icons.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
