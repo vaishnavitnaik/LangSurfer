@@ -1,7 +1,3 @@
-Sure! Here's a shorter version for your GitHub README file:
-
----
-
 # LangSurfer
 
 LangSurfer is a Chrome extension designed to help you learn any language while surfing the internet. It integrates translations and interactive learning tools into your web browsing, making language learning effortless and enjoyable.
@@ -19,7 +15,7 @@ LangSurfer is a Chrome extension designed to help you learn any language while s
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/LangSurfer.git
+    git clone https://github.com/vaishnavitnaik/LangSurfer.git
     ```
 2. Open Chrome and navigate to `chrome://extensions/`.
 3. Enable "Developer mode".
