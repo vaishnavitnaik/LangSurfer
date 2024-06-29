@@ -21,4 +21,10 @@ LangSurfer is a Chrome extension designed to help you learn any language while s
 3. Enable "Developer mode".
 4. Click "Load unpacked" and select the LangSurfer directory.
 
+![Feature 1](screenshots/one.png)
+*Real-Time Translation and Highlighting*
+
+![Feature 2](screenshots/two.png)
+*Interactive Learning Tools*
+
 Enjoy learning languages while you browse the web with LangSurfer!
